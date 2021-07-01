@@ -1,0 +1,17 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "title": "work hard",
+        "completed":true
+      },
+      {
+        "id": 2,
+        "title": "study hard",
+        "completed":true
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
