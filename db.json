@@ -1,55 +1,72 @@
 {
-	"time": [{
-		"type": 1,
-		"dayTotalTimeCtl": 0,
-		"dayTotalTime": 120,
-		"dayTimePhaseCtl": 0,
-		"dayTimePhase": [{
-			"fH": 8,
-			"fM": 30,
-			"toH": 22,
-			"toM": 30
-		}]
-	}, {
-		"type": 2,
-		"dayTotalTimeCtl": 0,
-		"dayTotalTime": 120,
-		"dayTimePhaseCtl": 0,
-		"dayTimePhase": [{
-			"fH": 8,
-			"fM": 30,
-			"toH": 22,
-			"toM": 30
-		}]
-	}],
-	"app": [{
-		"id": 420,
-		"apkName": "com.ks.kaishustory.watch",
-		"timeCtl": 0,
-		"time": [{
-			"type": 1,
-			"dayTotalTimeCtl": 0,
-			"dayTotalTime": 120,
-			"dayTimePhaseCtl": 0,
-			"dayTimePhase": [{
-				"fH": 8,
-				"fM": 30,
-				"toH": 22,
-				"toM": 30
-			}]
-		}, {
-			"type": 2,
-			"dayTotalTimeCtl": 0,
-			"dayTotalTime": 120,
-			"dayTimePhaseCtl": 0,
-			"dayTimePhase": [{
-				"fH": 8,
-				"fM": 30,
-				"toH": 22,
-				"toM": 30
-			}]
-		}]
-	}]
-}
+  "time": [
+    {
+      "type": 1,
+      "dayTotalTimeCtl": 0,
+      "dayTotalTime": 120,
+      "dayTimePhaseCtl": 0,
+      "dayTimePhase": [
+        {
+          "fH": 8,
+          "fM": 30,
+          "toH": 22,
+          "toM": 30
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "dayTotalTimeCtl": 0,
+      "dayTotalTime": 120,
+      "dayTimePhaseCtl": 0,
+      "dayTimePhase": [
+        {
+          "fH": 8,
+          "fM": 30,
+          "toH": 22,
+          "toM": 30
+        }
+      ]
+    }
+  ],
+  "app":
+
+    [
+      {
+        "id": 420,
+        "apkName": "com.ks.kaishustory.watch",
+        "timeCtl": 0,
+        "time": [
+          {
+            "type": 1,
+            "dayTotalTimeCtl": 0,
+            "dayTotalTime": 120,
+            "dayTimePhaseCtl": 0,
+            "dayTimePhase": [
+              {
+                "fH": 8,
+                "fM": 30,
+                "toH": 22,
+                "toM": 30
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "dayTotalTimeCtl": 0,
+            "dayTotalTime": 120,
+            "dayTimePhaseCtl": 0,
+            "dayTimePhase": [
+              {
+                "fH": 8,
+                "fM": 30,
+                "toH": 22,
+                "toM": 30
+              }
+            ]
+          }
+        ]
+      }
+    ]
 
 }
